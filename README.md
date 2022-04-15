@@ -1,8 +1,10 @@
 International Judgments of Genocide and War Crimes
 ==================================================
 
-1. Genocide
------------
+April 2022
+
+Genocide
+--------
 
 ### United States of America
 
@@ -10,7 +12,7 @@ President Joe Biden, 12 April 2022:
 
 > “Your family budget, your ability to fill up your tank, none
 > of it should on hinge on whether a dictator declares war and
-> commits genocide a half a world away."
+> commits genocide a half a world away.”
 
 [...]
 
@@ -19,17 +21,6 @@ President Joe Biden, 12 April 2022:
 > being able to be a Ukrainian. And the evidence is mounting.”
 
 https://abcnews.go.com/Politics/biden-blames-putins-price-hike-gas-prices-depend/story?id=84034646
-
-### United Kingdom
-
-Prime Minister Boris Johnson, 6 April 2022:
-
-> “I’m afraid, when you look at what’s happening in Bucha,
-> the revelations that we are seeing from what Putin has
-> done in Ukraine, which doesn’t look far short of genocide to me,
-> it is no wonder people are responding in the way that they are.”
-
-https://www.standard.co.uk/news/uk/russian-boris-johnson-united-states-liz-truss-ukraine-b992901.html
 
 ### Poland
 
@@ -64,17 +55,14 @@ Prime Minister Kaja Kallas, 13 April 2022:
 
 https://news.err.ee/1608563941/russia-s-war-against-ukraine-displays-clear-signs-of-genocide-estonian-pm
 
-### Canada
+### Columbia
 
-Prime Minister Justin Trudeau, 13 April 2022:
+President Iván Duque, 14 April 2022:
 
-> “There are official processes around determinations of genocide, but I think it's
-> absolutely right that more people be talking and using the word genocide in terms
-> of what Russia is doing, what Vladimir Putin has done [...] These are all things
-> that are war crimes that Putin is responsible for, these are all things that are
-> crimes against humanity.”
+> “What is happening in Ukraine is a genocide. And it has to stop. [...]
+> This is insane.”
 
-https://www.cbc.ca/news/politics/trudeau-ukraine-russia-genocide-1.6418408
+https://edition.cnn.com/europe/live-news/ukraine-russia-putin-news-04-13-22/h_e1216af9953197e466a9649c581f3133
 
 ### Spain
 
@@ -87,14 +75,28 @@ Prime Minister Pedro Sánchez, 4 April 2022:
 
 https://www.spainenglish.com/2022/04/04/pedro-sanchez-sees-possible-genocide-by-russian-forces-in-ukraine/
 
-### Columbia
+### United Kingdom
 
-President Iván Duque, 14 April 2022:
+Prime Minister Boris Johnson, 6 April 2022:
 
-> “What is happening in Ukraine is a genocide. And it has to stop. [...]
-> This is insane.”
+> “I’m afraid, when you look at what’s happening in Bucha,
+> the revelations that we are seeing from what Putin has
+> done in Ukraine, which doesn’t look far short of genocide to me,
+> it is no wonder people are responding in the way that they are.”
 
-https://edition.cnn.com/europe/live-news/ukraine-russia-putin-news-04-13-22/h_e1216af9953197e466a9649c581f3133
+https://www.standard.co.uk/news/uk/russian-boris-johnson-united-states-liz-truss-ukraine-b992901.html
+
+### Canada
+
+Prime Minister Justin Trudeau, 13 April 2022:
+
+> “There are official processes around determinations of genocide, but I think it's
+> absolutely right that more people be talking and using the word genocide in terms
+> of what Russia is doing, what Vladimir Putin has done [...] These are all things
+> that are war crimes that Putin is responsible for, these are all things that are
+> crimes against humanity.”
+
+https://www.cbc.ca/news/politics/trudeau-ukraine-russia-genocide-1.6418408
 
 War Crimes
 ----------
