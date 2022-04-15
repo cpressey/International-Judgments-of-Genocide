@@ -172,6 +172,18 @@ i news, "Russia war crime report reveals first independent evidence of deportati
 
 https://inews.co.uk/news/politics/russian-war-crime-report-reveals-first-independent-evidence-of-deportations-and-sexual-violence-in-ukraine-1573780
 
+### Romania
+
+Prime Minister Nicolae Ciuca, 13 April 2022:
+
+> “We strongly condemn the massive invasion of Ukraine, the ruthless
+> attacks of Russian troops on civilians, which violate the provisions
+> of international law and humanity, and deplore the tragic loss of life,
+> enormous suffering and destruction caused by Russia's illegal, unprovoked
+> and unjustified invasion.”
+
+https://www.romania-insider.com/iohannis-russia-brutal-agression-ukraine-security
+
 ### Ireland
 
 Foreign Minister Simon Coveney, 14 April 2022:
