@@ -6,6 +6,15 @@ _April 2022.  Excludes judgments by the belligerents themselves._
 Genocide
 --------
 
+### Latvia
+
+Foreign Minister Edgars Rinkevics, 3 April 2022:
+
+> “Genocide & war crimes committed against innocent civilians by the Russian troops
+> in Bucha (Ukraine) must be met with new sanctions & increased military assistance to Ukraine.”
+
+https://www.baltictimes.com/west_must_act_accordingly__given_unprecedented_level_of_war_mongering_being_fueled_in_russia-_rinkevics/
+
 ### Spain
 
 Prime Minister Pedro Sánchez, 4 April 2022:
@@ -68,9 +77,10 @@ President Joe Biden, 12 April 2022:
 https://abcnews.go.com/Politics/biden-blames-putins-price-hike-gas-prices-depend/story?id=84034646
 
 _(It should be noted that the USA's position on war crimes would be much stronger_
-_if it were itself a signatory to the International Criminal Court, but it is not;_
+_if it were itself a member of the International Criminal Court, but it is not;_
 _it is one of three countries that [never ratified the Rome Statute](https://www.bbc.co.uk/news/world-europe-61021862)._
-_The other two are Russia and China.)_
+_The other two are Russia and China.  The USA **is** however a member of the_
+_UN Convention on Genocide.)_
 
 ### Canada
 
@@ -107,6 +117,15 @@ War Crimes
 ----------
 
 _and calls for investigation of same_
+
+### New Zealand
+
+Prime Minister Jacina Ardern, 4 April 2022:
+
+> “[E]very piece of evidence points to the fact that there are war crimes
+> being committed by Russia in Ukraine at the hands of the president Vladimir Putin.”
+
+https://thespinoff.co.nz/live-updates/04-04-2022/ardern-says-russia-committing-war-crimes-but-wont-label-putin-a-war-criminal
 
 ### India
 
@@ -171,6 +190,16 @@ i news, "Russia war crime report reveals first independent evidence of deportati
 > humanitarian law violations by Russian forces in their conduct of hostilities”.
 
 https://inews.co.uk/news/politics/russian-war-crime-report-reveals-first-independent-evidence-of-deportations-and-sexual-violence-in-ukraine-1573780
+
+The full list of countries that referred the matter to the ICC:
+
+**Albania, Australia, Austria, Belgium, Bulgaria, Canada, Colombia, Costa Rica, Croatia,**
+**Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Georgia, Germany, Greece,**
+**Hungary, Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg,**
+**Malta, North Macedonia, Norway, Netherlands, New Zealand, Poland, Portugal, Romania,**
+**Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom**
+
+https://en.wikipedia.org/wiki/International_Criminal_Court_investigation_in_Ukraine
 
 ### Romania
 
