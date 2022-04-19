@@ -157,6 +157,15 @@ European Commission President Ursula von der Leyen, 9 April 2022:
 
 https://www.reuters.com/world/europe/russias-actions-appear-be-war-crimes-eus-von-der-leyen-says-2022-04-09/
 
+### Czech Republic
+
+Minister of Foreign Affairs Jan Lipavsky, 11 April 2022:
+
+> “Putin is a perpetrator of this horrendous war crime and those atrocities,
+> and he should be punished for that.”
+
+https://albaniandailynews.com/news/austria-s-leader-says-meeting-with-putin-wasn-t-friendly
+
 ### France
 
 President Emmanuel Macron, 12 April 2022:
@@ -191,7 +200,7 @@ i news, "Russia war crime report reveals first independent evidence of deportati
 
 https://inews.co.uk/news/politics/russian-war-crime-report-reveals-first-independent-evidence-of-deportations-and-sexual-violence-in-ukraine-1573780
 
-The full list of countries that referred the matter to the ICC:
+The full list of countries that submitted referrals to the ICC:
 
 **Albania, Australia, Austria, Belgium, Bulgaria, Canada, Colombia, Costa Rica, Croatia,**
 **Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Georgia, Germany, Greece,**
@@ -235,3 +244,13 @@ Foreign Minister Luigi Di Maio, 15 April 2022:
 > (to assess atrocity evidence against Russia).”
 
 https://www.ansa.it/english/news/general_news/2022/04/15/ukraine-dont-have-elements-to-verify-genocide-di-maio_7c1fc4a7-1831-437c-b6c3-ad86be23a01b.html
+
+### Germany
+
+Chancellor Olaf Scholz, 19 April 2022:
+
+> “Russia’s invasion of Ukraine remains a blatant breach of international law.
+> The killing of thousands of civilians as we have seen is a war crime
+> for which the Russian president bears responsibility.”
+
+https://www.aljazeera.com/news/2022/4/18/russian-offensive-in-eastern-ukraine-has-begun-kyiv-says-liveblog
