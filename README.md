@@ -52,13 +52,19 @@ https://www.standard.co.uk/news/uk/russian-boris-johnson-united-states-liz-truss
 
 ### Lithuania
 
-LRT news, "Russia’s actions in Ukraine are genocide – Lithuanian parliament", 12 April 2022:
+(1) LRT news, "Russia’s actions in Ukraine are genocide – Lithuanian parliament", 12 April 2022:
 
 > The Lithuanian parliament Seimas has proposed qualifying Russia’s military aggression
 > in Ukraine as genocide of the Ukrainian nation and called on the international community
 > to continue supplying a broad range of weapons to Kyiv.
 
 https://www.lrt.lt/en/news-in-english/19/1671359/russia-s-actions-in-ukraine-are-genocide-lithuanian-parliament
+
+(2) LRT news, "Lithuania recognises war in Ukraine as genocide, Russia as terrorist state", 10 May 2022:
+
+> On Tuesday, the Lithuanian parliament voted unanimously to recognise Russia’s war against Ukraine as genocide.
+
+https://www.lrt.lt/en/news-in-english/19/1691202/lithuania-recognises-war-in-ukraine-as-genocide-russia-as-terrorist-state
 
 ### United States of America
 
@@ -84,7 +90,7 @@ _UN Convention on Genocide.)_
 
 ### Canada
 
-Prime Minister Justin Trudeau, 13 April 2022:
+(1) Prime Minister Justin Trudeau, 13 April 2022:
 
 > “There are official processes around determinations of genocide, but I think it's
 > absolutely right that more people be talking and using the word genocide in terms
@@ -94,15 +100,39 @@ Prime Minister Justin Trudeau, 13 April 2022:
 
 https://www.cbc.ca/news/politics/trudeau-ukraine-russia-genocide-1.6418408
 
+(2) CTV News, "Canadian MPs unanimously back motion calling Russian attacks in Ukraine a 'genocide'", 27 April 2022:
+
+> Canadian members of Parliament voted unanimously on Wednesday to label Russia’s
+> attacks in Ukraine a “genocide.”
+
+https://www.ctvnews.ca/politics/canadian-mps-unanimously-back-motion-calling-russian-attacks-in-ukraine-a-genocide-1.5878900
+
 ### Estonia
 
-Prime Minister Kaja Kallas, 13 April 2022:
+(1) Prime Minister Kaja Kallas, 13 April 2022:
 
 > “Russian leaders have clearly demonstrated their will to destroy the
 > Ukrainian state and people in both words and deeds. Russia's war against
 > Ukraine displays clear signs of genocide.”
 
 https://news.err.ee/1608563941/russia-s-war-against-ukraine-displays-clear-signs-of-genocide-estonian-pm
+
+(2) ERR.ee, "Estonia on Russia's actions in Ukraine: This is genocide", 21 April 2022:
+
+> Following a speech from MP Olena Shuliak, head of the visiting delegation from the
+> Verkhovna Rada of Ukraine, the Riigikogu on Thursday unanimously adopted a statement
+> on the Russian Federation's war crimes and genocide in Ukraine.
+
+> [...]
+
+> "In the temporarily occupied territories, in particular the towns of Bucha,
+> Borodyanka, Hostomel, Irpin, Mariupol, and many other Ukrainian settlements,
+> the Russian Federation has committed acts of genocide, inter alia mass atrocities
+> against the civilian population," the statement reads. "These have consisted of
+> murders, enforced disappearances, deportations, imprisonment, torture, rape and
+> the desecration of corpses."
+
+https://news.err.ee/1608571816/estonia-on-russia-s-actions-in-ukraine-this-is-genocide
 
 ### Columbia
 
@@ -112,6 +142,22 @@ President Iván Duque, 14 April 2022:
 > This is insane.”
 
 https://edition.cnn.com/europe/live-news/ukraine-russia-putin-news-04-13-22/h_e1216af9953197e466a9649c581f3133
+
+### Czech Republic
+
+(1) Minister of Foreign Affairs Jan Lipavsky, 11 April 2022:
+
+> “Putin is a perpetrator of this horrendous war crime and those atrocities,
+> and he should be punished for that.”
+
+https://albaniandailynews.com/news/austria-s-leader-says-meeting-with-putin-wasn-t-friendly
+
+(2) Politico.eu, "Czech Senate recognizes Russian actions in Ukraine as genocide", 11 May 2022:
+
+> The upper house of the Czech parliament passed a resolution Wednesday urging the government
+> to recognize suspected war crimes in Ukraine as genocide.
+
+https://www.politico.eu/article/czech-senate-recognize-russia-actions-ukraine-genocide/
 
 War Crimes
 ----------
@@ -156,15 +202,6 @@ European Commission President Ursula von der Leyen, 9 April 2022:
 > carefully.”
 
 https://www.reuters.com/world/europe/russias-actions-appear-be-war-crimes-eus-von-der-leyen-says-2022-04-09/
-
-### Czech Republic
-
-Minister of Foreign Affairs Jan Lipavsky, 11 April 2022:
-
-> “Putin is a perpetrator of this horrendous war crime and those atrocities,
-> and he should be punished for that.”
-
-https://albaniandailynews.com/news/austria-s-leader-says-meeting-with-putin-wasn-t-friendly
 
 ### France
 
